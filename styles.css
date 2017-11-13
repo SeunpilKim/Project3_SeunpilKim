@@ -91,7 +91,7 @@ table {
     text-align: center;
     padding: 5px 20px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
 	
 }
 
@@ -127,7 +127,6 @@ table {
 {
   overflow: auto;
   width: 98%;
-  margin-top: 150px;
   margin-bottom: 5px;
   margin-right: 150px;
   margin-left: 5px;
@@ -239,7 +238,7 @@ section.desc {
 	text-align: right;
   overflow: auto;
   width: 98%;
-  margin-top: 120px;
+ 
   margin-bottom: 5px;
 	margin-right: 0px;
   padding: 10px;
@@ -355,13 +354,20 @@ section.desc {
 } 
 
 /*----------------------------------------------------------------------------------------------------------------------*/
-
+#map {
+  height: 100%;
+}
+#maps {
+	height: 100%;
+  margin: 0;
+  padding: 0;
+}
 #Favorites
 {
 	text-align: center;
   overflow: auto;
   width: 98%;
-  margin-top: 120px;
+  
   margin-bottom: 5px;
 	margin-right: 0px;
   padding: 10px;
