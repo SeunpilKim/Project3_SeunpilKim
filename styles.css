@@ -50,30 +50,58 @@ table {
 /* Add Project 2 CSS code --------------------------------------------------------------------------------------------*/
 
 /* Main navigation bar -----------------------------------------------------------------------------------------------*/
-#mmenu {
-  overflow: hidden;
-  background-color: #ce2727;
-  position: fixed;
-  top: 0;
-	left: 0;
-  width: 100%;
-  margin-bottom: 10px;
-}
 
 /* Links inside the navbar */
-#mmenu a {
+/*#mmenu a {
   
+  float: left;
   display: block;
-  color: #f2f2f2;
+  color: #ffffff;
   text-align: center;
-  margin-left: 10px;
-	
-	font-size: 250%;
+  padding: 5px 20px;
   text-decoration: none;
+  font-size: 25px;
 }
 
 #mmenu a:hover {
   background-color: #111111;
+}
+*/
+
+#mmenu {
+	text-align:center;
+  background-color: #BF4A4A;
+  overflow: hidden;
+	list-style: none;
+	width: 100%;
+	margin: 0;
+
+}
+
+#mmenu ul li{
+	list-style:none;
+	display: inline-block;
+}
+
+
+#mmenu a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 17px;
+	
+}
+
+
+#mmenu a:hover {
+  background-color: #111111;
+}
+
+#mmenu .icon {
+    display: none;
 }
 
 /*----------------------------------------------------------------------------------------------------------------------*/
