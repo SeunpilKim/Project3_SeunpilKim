@@ -382,6 +382,12 @@ section.desc {
 	font:  bold 20px arial, serif;
 	color: #1000ff;
 } 
+#maps h2
+{
+	text-align: center;
+	font:  bold 20px arial, serif;
+	color: #1000ff;
+}
 #music
 {
 	margin-left:10px;
