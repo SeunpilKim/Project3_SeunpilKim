@@ -382,6 +382,11 @@ section.desc {
 	font:  bold 20px arial, serif;
 	color: #1000ff;
 } 
+#map{
+	
+	width:100%;
+	height:1000px;
+}
 #maps h2
 {
 	text-align: center;
