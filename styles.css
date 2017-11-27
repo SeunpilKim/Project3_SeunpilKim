@@ -249,31 +249,39 @@ section.desc {
 }
 #Education
 {
-	margin-left:10px;
+	margin-left:20px;
 }
 #date{
 	text-align: right;
+	margin-right:20px;
 }
 #date2{
 	text-align: right;
+	margin-right:20px;
 }
 #date3{
 	text-align: right;
+	margin-right:20px;
 }
 #date4{
 	text-align: right;
+	margin-right:20px;
 }
 #date5{
 	text-align: right;
+	margin-right:20px;
 }
 #date6{
 	text-align: right;
+	margin-right:20px;
 }
 #date7{
 	text-align: right;
+	margin-right:20px;
 }
 #date8{
 	text-align: right;
+	margin-right:20px;
 }
 
 #Education h2
@@ -294,7 +302,7 @@ section.desc {
 #Experience
 {
 	margin-top: 50px;
-	margin-left:10px;
+	margin-left:20px;
 }
 #Experience h2
 {
@@ -314,7 +322,7 @@ section.desc {
 #Skills
 {
 	margin-top: 50px;
-	margin-left:10px;
+	margin-left:20px;
 }
 #Skills h2
 {
@@ -330,7 +338,7 @@ section.desc {
 #Activities
 {
 	margin-top: 50px;
-	margin-left:10px;
+	margin-left:20px;
 }
 #Activities h2
 {
@@ -346,7 +354,7 @@ section.desc {
 #Awards
 {
 	margin-top: 50px;
-	margin-left:10px;
+	margin-left:20px;
 }
 #Awards h2
 {
